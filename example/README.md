@@ -92,18 +92,3 @@
 ![Swagger](https://img.shields.io/badge/-Swagger-%23C1E81C?style=for-the-badge&logo=swagger&logoColor=black)
 ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
 
-
-### 1. 방문자 수 (Hits)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Freochoi109&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
-
-### 2. 종합 활동 통계 (Stats Card)
-![Reo's GitHub stats](https://github-readme-stats.vercel.app/api?username=USERID&show_icons=true&theme=radial)
-
-### 3. 주로 사용하는 언어 (Top Languages)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERID&layout=compact&theme=radial)
-
-### 4. 획득한 업적 트로피 (GitHub Trophy)
-![GitHub Trophy](https://github-readme-trophies.vercel.app/?username=USERID&theme=radical)
-
-### 5. 커밋 활동 그래프 (Activity Graph)
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=USERID&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
