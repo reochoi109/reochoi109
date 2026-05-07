@@ -1,223 +1,65 @@
-<div align="center">
+# Sinuk (Reo) Choi | Backend Developer 🚀
 
-# Hi there, I’m Reo
+[🇰🇷 한국어 버전으로 보기](#-koreanver)
 
-I’m **Sinuk Choi**, a backend developer living in **Seoul/Gyeonggi, Republic of Korea 🇰🇷**.
-
-Focused on scalable backend systems with **Go**, **PostgreSQL**, and **Apache Kafka**.
-
-<br>
-
-<a href="#korean-version"><b>🇰🇷 한국어로 보기</b></a>
-
-</div>
+### Connect with me
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat-square&logo=github&logoColor=white)](https://reochoi109.github.io/)
+[![Blog](https://img.shields.io/badge/Blog-orange?style=flat-square&logo=tistory&logoColor=white)](https://reo-tech.tistory.com/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:reochoi109@gmail.com)
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](#) -->
 
 ---
 
-## About Me
-
-I enjoy building reliable and scalable backend systems.
-
-With experience in processing and operating large-scale data workloads, I focus on maintainable architectures that can continue to grow without unnecessary complexity.
-
-I prefer solving complex problems with simple, practical, and stable solutions.
+### Summary
+I am a backend developer with **2.5 years of experience**, based in **Seoul, South Korea**. I turn complex business requirements into robust, scalable systems. With professional experience in processing and managing large-scale data, I focus on building efficient, high-performance architectures that can grow without technical debt.
 
 ---
 
-## Professional Focus
+### Skills
 
-<table>
-<tr>
-<td width="33%" valign="top">
+| Category | Tech Stack |
+| :--- | :--- |
+| **Languages** | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **Frameworks** | ![Gin](https://img.shields.io/badge/Gin-00ADD8?style=flat-square&logo=go&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-05998b?style=flat-square&logo=fastapi&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) |
+| **Database & Infra** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white) ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white) ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white) |
 
-### Backend Engineering
+### Focus & Strengths
+- **Performance:** Designing systems that remain stable under high workloads.
+- **Data Pipeline:** Building robust processes for large-scale data management.
+- **Maintainability:** Focusing on clean interface contracts for scalable development.
 
-Go is my primary language for building scalable backend services.
-
-I care about clean interfaces, maintainable architecture, and long-term system reliability.
-
-</td>
-<td width="33%" valign="top">
-
-### Large-Scale Data
-
-I have hands-on experience in processing and operating high-volume data workloads.
-
-I focus on data integrity, efficient pipelines, and reliable processing flows.
-
-</td>
-<td width="33%" valign="top">
-
-### System Design
-
-I design backend systems using PostgreSQL and Apache Kafka.
-
-I’m interested in event-driven architecture, decoupled systems, and services that remain stable under pressure.
-
-</td>
-</tr>
-</table>
+### Off the clock
+I thrive on taking new challenges through activities like running marathons 🏃‍♂️ and training in adult Taekwondo 🥋. By building physical stamina and the habit of pushing my limits, I cultivate the proactive mindset needed to tackle and solve any problem I face in my work.
 
 ---
 
-## Tech Stack
+<br/>
 
-### Languages
+##### 🇰🇷 Korean.Ver
 
-<p>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
+**최신욱 (Reo) | 백엔드 개발자**
 
-
-### Frameworks
-
-<p>
-  <img src="https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-05998B?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-</p>
-
-
-### Database & Infrastructure
-
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white"/>
-</p>
-
-
-### Tools & Collaboration
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white"/>
-</p>
+대한민국 서울에 거주하며, **2.5년의 실무 경력**을 보유하고 있습니다. 복잡한 비즈니스 요구사항을 견고하고 확장 가능한 시스템으로 구현하며, 대규모 데이터 처리 및 관리 경험을 바탕으로 기술 부채 없이 성장할 수 있는 효율적인 고성능 백엔드 아키텍처 구축에 집중합니다.
 
 ---
 
-## Off the clock
-
-Outside of development, I continue to take on new challenges.
-
-I enjoy running and have participated in marathon events, and recently earned my 1st Dan black belt in Taekwondo.
-
-I value consistency, repetition, and steady growth over short-term results.
-
-I believe that mindset naturally carries over into engineering and problem solving.
+#### 전문 분야
+* **백엔드 엔지니어링:** 확장 가능한 서비스 구축을 위해 **Go**를 주력으로 사용하며, 장기적인 유지보수가 용이한 설계를 지향합니다.
+* **대규모 데이터:** 고용량 데이터 처리 실무 경험을 기반으로 데이터 무결성 유지와 효율적인 파이프라인 구축에 주력합니다.
+* **시스템 설계:** **PostgreSQL**과 **Apache Kafka**를 활용해 부하가 높은 상황에서도 안정적으로 동작하는 이벤트 기반 분산 시스템을 구축합니다.
 
 ---
 
-<a id="korean-version"></a>
-
-<details>
-<summary><b><font size="4">🇰🇷 한국어</font></b></summary>
-
-<br>
-
-<div align="center">
-
-# 안녕하세요, 레오입니다 🇰🇷.
-
-저는 **최신욱(Sinuk Choi)** 이라고 합니다.  
-현재 **대한민국 서울/경기에 거주 중인 백엔드 개발자** 입니다.
-
-**Go**, **PostgreSQL**, **Apache Kafka**를 중심으로 확장 가능한 백엔드 시스템을 만들고 있습니다.
-
-</div>
+### Skills
+| Category | Tech Stack |
+| :--- | :--- |
+| **Languages** | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **Frameworks** | ![Gin](https://img.shields.io/badge/Gin-00ADD8?style=flat-square&logo=go&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-05998b?style=flat-square&logo=fastapi&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) |
+| **Database & Infra** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white) ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white) ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white) |
 
 ---
 
-## About Me
-
-복잡한 비즈니스 요구사항을 안정적이고 확장 가능한 시스템으로 구현하는 백엔드 개발자입니다.
-
-대용량 데이터 처리 및 운영 경험을 바탕으로, 불필요한 기술 부채 없이 성장 가능한 백엔드 아키텍처 구축에 집중하고 있습니다.
-
-복잡한 문제를 단순하고 안정적이며 실용적인 구조로 해결하는 것을 좋아합니다.
-
----
-
-## Professional Focus
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### Backend Engineering
-
-Go를 주 언어로 사용하며 확장 가능한 백엔드 서비스를 개발합니다.
-
-명확한 인터페이스, 유지보수 가능한 구조, 장기적인 시스템 안정성을 중요하게 생각합니다.
-
-</td>
-<td width="33%" valign="top">
-
-### Large-Scale Data
-
-대용량 데이터 처리 및 운영 경험을 보유하고 있습니다.
-
-데이터 무결성, 효율적인 파이프라인, 안정적인 처리 흐름에 관심이 많습니다.
-
-</td>
-<td width="33%" valign="top">
-
-### System Design
-
-PostgreSQL과 Apache Kafka를 활용한 백엔드 시스템 설계에 관심이 많습니다.
-
-이벤트 기반 아키텍처, 느슨하게 결합된 시스템, 부하 상황에서도 안정적인 서비스를 지향합니다.
-
-</td>
-</tr>
-</table>
-
----
-
-## Tech Stack
-
-### Languages
-
-<p>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
-
-
-### Frameworks
-
-<p>
-  <img src="https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-05998B?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-</p>
-
-### Database & Infrastructure
-
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white"/>
-</p>
-
-
-### Tools & Collaboration
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white"/>
-</p>
-
----
-
-## Off the clock
-
-개발 외에도 꾸준히 새로운 도전을 이어가고 있습니다.
-
-달리기를 좋아하며 마라톤 대회에 참가한 경험이 있고,
-최근에는 태권도 1단을 취득했습니다.
-
-단기간의 결과보다 꾸준한 반복과 지속적인 성장을 중요하게 생각합니다.
-
-</details>
+#### 개인 활동
+마라톤 완주나 성인 태권도를 통해 운동과 새로운 도전을 즐깁니다. 도전하는 습관과 체력을 통해 어떤 문제든 적극적으로 나서서 해결하는 능력을 기르고 있습니다.
