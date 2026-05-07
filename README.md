@@ -100,14 +100,6 @@ I’m interested in event-driven architecture, decoupled systems, and services t
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=reochoi109&show_icons=true&hide_border=true&count_private=true" />
-</p>
-
----
-
 ## Off the clock
 
 Outside of development, I continue to take on new challenges.
@@ -123,7 +115,7 @@ I believe that mindset naturally carries over into engineering and problem solvi
 <a id="korean-version"></a>
 
 <details>
-<summary><b>한국어 버전 열기</b></summary>
+<summary><b><font size="5">🇰🇷</font></b></summary>
 
 <br>
 
