@@ -32,11 +32,13 @@ I am a backend developer with **2.5 years of experience**, based in **Seoul, Sou
 ### Off the clock
 I thrive on taking new challenges through activities like running marathons 🏃‍♂️ and training in adult Taekwondo 🥋. By building physical stamina and the habit of pushing my limits, I cultivate the proactive mindset needed to tackle and solve any problem I face in my work.
 
----
 
 <br/>
+<br/>
 
-##### 🇰🇷 Korean.Ver
+# 🇰🇷 Korean.Ver
+
+<br/>
 
 **최신욱 (Reo) | 백엔드 개발자**
 
