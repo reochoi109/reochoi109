@@ -112,7 +112,7 @@ I believe that mindset naturally carries over into engineering and problem solvi
 <a id="korean-version"></a>
 
 <details>
-<summary><b><font size="5">🇰🇷</font></b></summary>
+<summary><b><font size="4">🇰🇷 한국어</font></b></summary>
 
 <br>
 
