@@ -69,7 +69,6 @@ I’m interested in event-driven architecture, decoupled systems, and services t
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-<br>
 
 ### Frameworks
 
@@ -79,7 +78,6 @@ I’m interested in event-driven architecture, decoupled systems, and services t
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 </p>
 
-<br>
 
 ### Database & Infrastructure
 
@@ -88,7 +86,6 @@ I’m interested in event-driven architecture, decoupled systems, and services t
   <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white"/>
 </p>
 
-<br>
 
 ### Tools & Collaboration
 
@@ -187,7 +184,6 @@ PostgreSQL과 Apache Kafka를 활용한 백엔드 시스템 설계에 관심이 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-<br>
 
 ### Frameworks
 
@@ -197,8 +193,6 @@ PostgreSQL과 Apache Kafka를 활용한 백엔드 시스템 설계에 관심이 
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 </p>
 
-<br>
-
 ### Database & Infrastructure
 
 <p>
@@ -206,7 +200,6 @@ PostgreSQL과 Apache Kafka를 활용한 백엔드 시스템 설계에 관심이 
   <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white"/>
 </p>
 
-<br>
 
 ### Tools & Collaboration
 
