@@ -38,3 +38,13 @@ With professional experience in processing and managing large-scale data, I focu
 
 ### 💚 Off the clock
 I enjoy taking on new challenges in my daily life. Whether it's running marathons or training in Taekwondo to earn my 1st Dan black belt, I love pushing my limits and staying active. I believe the discipline I gain from these challenges naturally translates into how I approach my work. ✨
+
+
+### Hits
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Freochoi109&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
+
+### Stats Card
+![Reo's GitHub stats](https://github-readme-stats.vercel.app/api?username=reochoi109&show_icons=true&theme=radial)
+
+### Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reochoi109&layout=compact&theme=radial)
