@@ -11,7 +11,7 @@
 ---
 
 ### Summary
-I am a backend developer with **2.5 years of experience**, based in **Seoul, South Korea**. I turn complex business requirements into robust, scalable systems. With professional experience in processing and managing large-scale data, I focus on building efficient, high-performance architectures that can grow without technical debt.
+I am a backend developer with 2.5 years of experience, based in Seoul/Gyeonggi, South Korea. I turn complex business requirements into robust, scalable systems. With professional experience in processing and managing large-scale data, I focus on building efficient, high-performance architectures that can grow without technical debt.
 
 ---
 
@@ -42,8 +42,8 @@ I thrive on taking new challenges through activities like running marathons 🏃
 
 **최신욱 (Reo) | 백엔드 개발자**
 
-대한민국 서울에 거주하며, **2.5년의 실무 경력**을 보유하고 있습니다. 복잡한 비즈니스 요구사항을 견고하고 확장 가능한 시스템으로 구현하며, 대규모 데이터 처리 및 관리 경험을 바탕으로 기술 부채 없이 성장할 수 있는 효율적인 고성능 백엔드 아키텍처 구축에 집중합니다.
-
+대한민국 서울/경기에서 활동하는 2.5년 차 백엔드 개발자입니다.
+복잡한 비즈니스 요구사항을 견고하고 확장 가능한 시스템으로 구현하며, 대규모 데이터 처리 및 운영 경험을 바탕으로 기술 부채 없이 지속적으로 성장할 수 있는 효율적이고 안정적인 백엔드 아키텍처 구축에 집중하고 있습니다.
 ---
 
 #### 전문 분야
