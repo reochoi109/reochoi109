@@ -67,6 +67,3 @@ I thrive on taking new challenges through activities like running marathons 🏃
 #### 개인 활동
 마라톤 완주와 성인 태권도를 통해 꾸준히 체력과 도전 정신을 기르고 있습니다. 새로운 환경과 문제에 적극적으로 부딪히며 해결하는 과정을 즐깁니다.
 
-<br/>
-
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Freochoi109&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false)
