@@ -1,13 +1,10 @@
-# Sinuk (Reo) Choi | Backend Developer 🚀
+# Sinuk Choi
 
-[🇰🇷 한국어 버전으로 보기](#-koreanver)
+Based in Seoul, South Korea.
 
-### Connect with me
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat-square&logo=github&logoColor=white)](https://reochoi109.github.io/)
-[![Blog](https://img.shields.io/badge/Blog-orange?style=flat-square&logo=tistory&logoColor=white)](https://reo-tech.tistory.com/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:reochoi109@gmail.com)
-<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](#) -->
+I enjoy running marathons and practicing Taekwondo.
 
+<<<<<<< HEAD
 ---
 
 ### Summary
@@ -67,3 +64,6 @@ I thrive on taking new challenges through activities like running marathons 🏃
 #### 개인 활동
 마라톤 완주와 성인 태권도를 통해 꾸준히 체력과 도전 정신을 기르고 있습니다. 새로운 환경과 문제에 적극적으로 부딪히며 해결하는 과정을 즐깁니다.
 
+=======
+[Email](mailto:reochoi109@gmail.com)
+>>>>>>> da98a8e (feat : update profile)
